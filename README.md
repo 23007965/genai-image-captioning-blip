@@ -87,6 +87,9 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 ```
 ### OUTPUT:
 
+<img width="2592" height="1944" alt="dog (1)" src="https://github.com/user-attachments/assets/f1cc568c-0b19-44ae-8bc1-fe076a980f69" />
+
+
 
 ### RESULT:
 The application successfully generates high-quality images based on user-provided text prompts. The Stable Diffusion model ensures visually appealing results, and the Gradio interface makes it accessible and interactive.
